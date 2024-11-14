@@ -1,0 +1,12 @@
+
+langchain_core
+python_dotenv
+langchain_community
+langserve
+streamlit 
+langchain_google_genai
+google-generativeai
+chromadb
+faiss-cpu==1.7.4
+PyPDF2
+langchain
